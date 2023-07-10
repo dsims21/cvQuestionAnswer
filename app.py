@@ -2,6 +2,7 @@ import streamlit as st
 import openai
 
 st.title("ResumeGPT")
+st.text("Using LangChain, GPT-3, and Streamlit to create a resume question and answer chatbot. Ask me anything about my resume.")
 
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
@@ -15,7 +16,7 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-prompt = st.chat_input("Type something...")
+prompt = st.chat_input("You can ask any question about Daniel...")
 
 if prompt:
     st.session_state.messages.append({"role": "user", "content": prompt})
