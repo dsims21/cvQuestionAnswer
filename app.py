@@ -2,7 +2,8 @@ import streamlit as st
 import openai
 
 st.title("ResumeGPT")
-st.text("Using LangChain, GPT-3, and Streamlit to create a resume question and answer chatbot. Ask me anything about my resume.")
+st.text("Using LangChain and GPT-3.5 to create a resume question and answer chatbot.")
+st.text("Ask it anything about Daniel's CV.")
 
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
