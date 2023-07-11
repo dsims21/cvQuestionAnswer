@@ -83,3 +83,5 @@ if prompt:
             message_placeholder.markdown(full_response + "▌")
         message_placeholder.markdown(full_response) # Assistant's response
     st.session_state.messages.append({"role": "assistant", "content": full_response})
+    full_response = full_response[32000-len(full_response):]
+    st.session_state.messages = st.session_state.messages[-5:]
