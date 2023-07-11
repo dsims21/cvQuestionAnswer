@@ -1,0 +1,212 @@
+About
+Testimonials
+Resume
+Portfolio
+Contact
+Daniel Sims.-image
+Daniel Sims.
+I'm Daniel Sims, a tech enthusiast and an accomplished leader with a global footprint, currently based in Seattle. My technical acumen, coupled with a rapid learning ability and a keen interest in Artificial Intelligence, enables me to drive innovation in complex business environments.
+
+Beyond work, I enjoy adventuring into the vast universe of Virtual Reality or riding my electric scooter.
+
+Resume
+Contact
+about-me-image
+About me
+As a programmer and tech leader, I specialize in data and AI, with a track record at companies like Starburst Data and Tableau. My passion for understanding systems and managing diverse teams is matched by my love for learning and making lifelong friends. If you value a unique blend of technical proficiency, collaborative spirit, and an unwavering pursuit of excellence, I invite you to connect with me.
+
+Location:
+Duvall, WA
+Age:
+39
+Country:
+USA
+Interests:
+Artificial Intelligence, Virtual Reality
+Education:
+University of Washington
+Employment:
+Starburst Data, OpenMarket, Tableau
+
+Daniel is among the smartest and most active managers I have had. He really challenged me to think about the way I work. Our team always performed consistently well because he was engaged with us. In doing so he brought us to the highest level of performance: creativity, which is something truly rare.
+
+-- Chris Ghyzel - TAM
+
+
+It is not often you closely collaborate with someone whose talents span so many areas. Technical, analytical, tactical. That’s just the start.
+
+-- Alex Lavoie - TAM
+
+
+Daniel is extremely reliable and trustworthy, and I knew that any project with him on it would be driven to completion and be successful. Not only is he a do-er, but he also fosters a fantastic work environment.
+
+-- Kevin Haley - Product Manager
+
+
+What makes Daniel standout is his data driven and "back to fundamentals" style of working, and is a leader that inspires through action. He is highly technical leader in the data/AI/ML domain paired with a strong business & people mindset.
+
+-- Luke Watkins - Senior TAM
+
+
+EDUCATION
+Bachelor of Arts in Business Administration
+Univerity of Washington
+•
+June 2015
+In my academic journey, I explored a broad spectrum of business subjects that have become a cornerstone in my tech-oriented career. From Business Finance to E-Marketing and International Trade, my foundational knowledge has been integral in navigating the dynamic landscape of the tech industry.
+
+WORK
+Manager, Technical Account Management
+Starburst Data
+•
+August 2022 - June 2023
+Utilized advanced AI tools to enhance operational efficiency across multiple areas and drove innovation in system and process design. Managed significant customer accounts and led a high-performing team.
+
+Technical Account Manager
+Starburst Data
+•
+August 2021 - August 2022
+Acted as the primary liaison for significant customer accounts, developed data infrastructure strategies, and implemented scalable data solutions in large enterprise environments.
+
+Senior Technical Account Manager
+OpenMarket Inc.
+•
+December 2020 - August 2021
+Played a pivotal role in designing and implementing global text messaging platforms for the company's most significant account. Managed real-time global platform stability, handled time-sensitive SMS data, and developed data warehouse infrastructure.
+
+Owner, Quantitative Analyst, Financial Advisor
+Spearhead Capital Management, LLC
+•
+June 2013 - December 2020
+Managed a diverse role encompassing quantitative analysis, software engineering, data engineering, and financial advising. Developed various tools and strategies for data collection, storage, and analysis, contributing to the firm's financial decision-making.
+
+Manager, Software Engineering
+Tableau Software
+•
+November 2013 - December 2018
+Progressed through various roles in this leading business intelligence and data analytics software company. Led technical troubleshooting efforts for the world's largest analytics platforms and managed relationships with high-profile stakeholders.
+
+Stockbroker
+Scottrade, Inc.
+•
+November 2007 - June 2013
+Demonstrated expertise in financial regulations, securities, and ethical practices as a licensed stockbroker. Specialized in options trading, placing large trades for customers with a focus on speed and accuracy.
+
+SKILLS
+Leadership & Management
+Team Management
+Diversity & Inclusion
+Customer Relations
+Programming languages
+Python
+Java
+C#
+Data engineering
+SQL
+ETL
+Data Warehousing
+System Design
+Distributed Systems
+Data Architecture
+System Resiliance
+Customer Facing Skills
+Relationship Management
+Escalation Handling
+Product Feedback
+Container Technologies
+Kubernetes
+Docker
+Helm
+Check out some of my work
+ResumeGPT
+ResumeGPT
+Chat with my resume. Ask away.
+
+Designed with:
+
+Python
+OpenAI
+LangChain
+Streamlit
+
+Get in touch.
+I am always open to discussing new opportunities, innovative ideas, or how I can bring value to your team. Feel free to reach out.
+
+Phone
+425.922.0726
+Email
+DSims21@gmail.com
+LinkedIn
+DanielJSims
+© Copyright 2023 Daniel Sims
+Daniel Sims - CV - Data First
+
+Daniel Sims
+
+Seattle, WA • DSims21@gmail.com • 425-922-0726
+LinkedIn: DanielJSims • StackOverflow: MonteCarloSims • GitHub: DSims21
+
+Education:
+UNIVERSITY OF WASHINGTON	Seattle, WA
+BA, Business Administration	2015
+Relevant Coursework: Management of Organizations, Information Analysis, Operations, Project Management, Statistics
+
+Experience: 
+STARBURST DATA	Cambridge, MA (Remote)
+Manager, Technical Account Management / Lead Data Engineer (Telemetry)	Aug. 2022 – Jun. 2023
+•	Utilized advanced AI tools, notably GPT-4, to enhance operational efficiency across multiple areas, including the creation of internal and external planning documents, the generation of powerful presentations, data analysis for informed decision-making, design of OKRs and supporting documentation, and the proposition of new educational and service programs.
+•	Oversaw the company's most prominent and technically demanding customer accounts, demonstrating skills in client management, and technical problem-solving.
+•	Initiated and implemented innovative systems and processes based on organizational needs, seeing company-wide adoption.
+•	Led and nurtured a high-performing team, creating an environment that promoted teamwork, empowered individuals, and boosted team performance.
+•	Leveraged quantitative background and programming expertise to introduce analytics solutions on a team and company-wide scale.
+•	Collaborated with product and engineering teams, contributing to product enhancements and bridging the gap between clients and internal teams.
+•	Gained skills in systems and process design, team leadership, product improvement, and analytics solution development.
+
+Senior Technical Account Manager / Data Engineer	Aug. 2021 – Aug. 2022
+•	Served as the primary point of contact for significant customer accounts, collaborating with global data teams.
+•	Managed world's largest datasets, using Trino/Presto for comprehensive data solutions, ensuring efficient data federation and massively parallel processing.
+•	Developed and implemented data infrastructure strategies for high-touch accounts, improving data storage, retrieval processes, and interoperability.
+•	Deployed scalable data strategies in large enterprise environments that utilized massively parallel processing, enhancing efficiency in querying and analyzing vast datasets.
+•	Designed team-wide analytics solutions, enhancing decision-making capabilities and fostering a culture of data-driven insights.
+•	Engaged regularly with product and engineering teams, acting as a liaison and contributing towards product enhancement.
+•	Gained skills in high-touch account management, project management, data infrastructure strategy, application of Trino/Presto through DevOps, and Platform Engineering principles.
+
+OPENMARKET INC.	Seattle, WA (Remote)
+Senior Technical Account Manager / Data Engineer	Dec. 2020 – Aug. 2021
+•	Worked closely with the company's most significant account to design and implement global text messaging platforms, including innovative products such as satellite communication.
+•	Collaborated with 19 teams of engineers, innovators, DevOps engineers, and platform engineers to monitor and stabilize a real-time global platform.
+•	Managed time-sensitive SMS data, similar to market data, understanding the importance of avoiding delays to maintain its value.
+•	Utilized knowledge of the scale of markets to perform effectively in the role.
+•	Developed data warehouse infrastructure using Parquet, S3, Hive, and Presto to handle billions of rows of text message data.
+•	Created internal visualizations to monitor delivery rates, proactively identifying and resolving issues to maintain optimal performance.
+
+
+SPEARHEAD CAPITAL MANAGEMENT, LLC	Bellevue, WA
+Owner, Quantitative Analyst, Software Engineer, Data Engineer, Financial Advisor	Jun. 2013 – Dec 2020
+•	Achieved the FINRA Series 3 and Series 66 licenses, demonstrating a comprehensive understanding of financial regulations, commodities, futures contracts, securities, and ethical business practices in the financial services industry.
+•	Developed and maintained Athena, a program using C# for the collection and storage of empirical market micro-structure data, including live streaming equity/index derivative data, implied volatility skew, and put/call-parity deviations.
+•	Constructed a Derivative Pricing Calculator, a tool for mass valuation of options using Python and SQL Server, applying the Black-Scholes formula to include Delta, Vega, and Implied Volatility calculations.
+•	Built Neural Networks to predict derivative pricing and utilized quantum computing to balance a basket of derivative securities and risk hedges, guided by financial theories such as Black-Scholes, Information Theory, and Kelly Optimization.
+•	Created and maintained a fully automated Market Data Pipeline from US exchanges to aggregated visualization using AWS Athena, Tableau, and Powershell, handling all Index/equity derivative trades on every US exchange.
+•	Developed a nightly automated Monte Carlo Simulation workflow using Python, AWS Athena, AWS S3, and Linux to compute stocks' probabilistic outcomes for specific future dates.
+•	Managed, queried, migrated, and automated billion+ row datasets and reduced billions of events to create logic leading to actionable data points.
+
+TABLEAU SOFTWARE	Seattle, WA
+Manager, Software Engineering (Supportability)	Nov. 2013 – Dec. 2018
+•	Promoted to various support and engineering roles during a five-year tenure at this $1B business intelligence and data analytics software company.
+•	Led technical troubleshooting efforts for the world's largest analytics platforms, addressing complex, high-level issues that required a deep understanding of large-scale data handling, which is directly related to the new role's requirements.
+•	Conducted regular meetings with C-Level executives to provide updates on critical escalations, demonstrating effective communication skills and the ability to manage relationships with high-profile stakeholders.
+•	Responded to critical client needs by personally visiting customer sites for presentations and hands-on troubleshooting, indicating a commitment to customer service and ability to handle high-pressure situations, akin to managing the most demanding accounts in the new role.
+
+SCOTTRADE	Seattle, WA
+Stockbroker	Nov. 2007 – Jun. 2013
+•	Earned the FINRA Series 7 and Series 63 licenses, demonstrating a high level of knowledge and expertise in financial regulations, securities, and ethical practices.
+•	Gained a reputation as a skilled professional in options trading, exhibiting a deep understanding of advanced market principles and a consistent ability to place large trades for customers.
+•	Prioritized speed and accuracy, recognizing their critical importance in the fast-paced and high-stakes world of stock trading, a mindset that carries over into my management and technical roles.
+
+Skills & Interests:
+Financial: Quant Finance, Valuation, Greeks, Hedging, High Frequency Trading, Black Scholes, Kelly Criterion 
+Technical: Python, SQL, Java, C#, C++, OpenAI API, LangChain, Distributed Systems, Big Data, Kubernetes, Data Visualization, Tableau, Docker, Helm, Linux, Git, AWS, GCP, Azure, Open-Source Collaboration, Troubleshooting
+Language: English (proficient,) Spanish (intermediate,) French (intermediate,) Arabic (beginner)
+Interests: Artificial Intelligence, Machine Learning, Virtual Reality, Traveling, Electric Scootering 
+

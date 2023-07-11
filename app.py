@@ -12,7 +12,7 @@ import openai
 # import nltk
 
 openai_api_key=st.secrets["OPENAI_API_KEY"]
-with open("public/test.txt", "r") as f:
+with open("public/resume.txt", "r") as f:
     baseResume = f.read()
 
 # Get your loader ready
