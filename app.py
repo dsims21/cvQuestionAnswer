@@ -17,7 +17,7 @@ if "openai_model" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-st.session_state.messages.append({"role": "system", "content": "You are a powerful chatbot designed to answer questions about this document: " + baseResume})
+st.session_state.messages.append({"role": "system", "content": "You are a powerful chatbot. Do not make up information. You are designed to answer questions about this document: " + baseResume})
 
 for message in st.session_state.messages:
     if message["role"] != "system":

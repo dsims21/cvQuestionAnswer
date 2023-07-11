@@ -1,10 +1,18 @@
+About
+Testimonials
+Resume
+Contact
+Daniel Sims.-image
 Daniel Sims.
+Hi! I'm Daniel Sims, a tech enthusiast and an accomplished leader with a global footprint, currently based in Seattle. My technical acumen, coupled with a rapid learning ability and a keen interest in Artificial Intelligence, enables me to drive innovation in complex business environments.
 
-I'm Daniel Sims, a tech enthusiast and an accomplished leader with a global footprint, currently based in Seattle. My technical acumen, coupled with a rapid learning ability and a keen interest in Artificial Intelligence, enables me to drive innovation in complex business environments.
+Feel free to share this page, download my resume, and interact with ResumeGPT, my custom program, below!
 
-Beyond work, I enjoy adventuring into the vast universe of Virtual Reality or riding my electric scooter.
-
-About me: 
+Resume
+Contact
+ResumeGPT by Daniel Sims
+about-me-image
+About me
 As a programmer and tech leader, I specialize in data and AI, with a track record at companies like Starburst Data and Tableau. My passion for understanding systems and managing diverse teams is matched by my love for learning and making lifelong friends. If you value a unique blend of technical proficiency, collaborative spirit, and an unwavering pursuit of excellence, I invite you to connect with me.
 
 Location:
@@ -24,69 +32,43 @@ Testimonials:
 
 Daniel is among the smartest and most active managers I have had. He really challenged me to think about the way I work. Our team always performed consistently well because he was engaged with us. In doing so he brought us to the highest level of performance: creativity, which is something truly rare.
 
--- Chris Ghyzel - TAM
+-- Chris Ghyzel (Technical Account Manager)
 
 
-It is not often you closely collaborate with someone whose talents span so many areas. Technical, analytical, tactical. That’s just the start.
+Daniel is a savvy technical leader who tackles challenging problems thinking out of the box. Always responsive and ready to engage. When working with my team, he always brought valuable insights, both technical and the customer's perspective.
 
--- Alex Lavoie - TAM
+-- Alex Albu (Engineering Manager)
+
+
+Daniel cares deeply about the team members he manages and mentors. He wants to see his team members succeed, which is a quality that his direct reports could feel daily in their work alongside him.
+
+-- Sejin Mong (Director, Customer Success)
+
+
+It is not often you closely collaborate with someone whose talents span so many areas. Technical, analytical, tactical. That's just the start.
+
+-- Alex Lavoie (Technical Account Manager)
 
 
 Daniel is extremely reliable and trustworthy, and I knew that any project with him on it would be driven to completion and be successful. Not only is he a do-er, but he also fosters a fantastic work environment.
 
--- Kevin Haley - Product Manager
+-- Kevin Haley (Product Manager)
 
 
 What makes Daniel standout is his data driven and "back to fundamentals" style of working, and is a leader that inspires through action. He is highly technical leader in the data/AI/ML domain paired with a strong business & people mindset.
 
--- Luke Watkins - Senior TAM
+-- Luke Watkins (Senior Technical Account Manager)
 
 
-EDUCATION
+EDUCATION:
 Bachelor of Arts in Business Administration
 Univerity of Washington
 •
 June 2015
 In my academic journey, I explored a broad spectrum of business subjects that have become a cornerstone in my tech-oriented career. From Business Finance to E-Marketing and International Trade, my foundational knowledge has been integral in navigating the dynamic landscape of the tech industry.
 
-WORK
-Manager, Technical Account Management
-Starburst Data
-•
-August 2022 - June 2023
-Utilized advanced AI tools to enhance operational efficiency across multiple areas and drove innovation in system and process design. Managed significant customer accounts and led a high-performing team.
 
-Technical Account Manager
-Starburst Data
-•
-August 2021 - August 2022
-Acted as the primary liaison for significant customer accounts, developed data infrastructure strategies, and implemented scalable data solutions in large enterprise environments.
-
-Senior Technical Account Manager
-OpenMarket Inc.
-•
-December 2020 - August 2021
-Played a pivotal role in designing and implementing global text messaging platforms for the company's most significant account. Managed real-time global platform stability, handled time-sensitive SMS data, and developed data warehouse infrastructure.
-
-Owner, Quantitative Analyst, Financial Advisor
-Spearhead Capital Management, LLC
-•
-June 2013 - December 2020
-Managed a diverse role encompassing quantitative analysis, software engineering, data engineering, and financial advising. Developed various tools and strategies for data collection, storage, and analysis, contributing to the firm's financial decision-making.
-
-Manager, Software Engineering
-Tableau Software
-•
-November 2013 - December 2018
-Progressed through various roles in this leading business intelligence and data analytics software company. Led technical troubleshooting efforts for the world's largest analytics platforms and managed relationships with high-profile stakeholders.
-
-Stockbroker
-Scottrade, Inc.
-•
-November 2007 - June 2013
-Demonstrated expertise in financial regulations, securities, and ethical practices as a licensed stockbroker. Specialized in options trading, placing large trades for customers with a focus on speed and accuracy.
-
-SKILLS
+SKILLS:
 Leadership & Management
 Team Management
 Diversity & Inclusion
@@ -111,19 +93,8 @@ Container Technologies
 Kubernetes
 Docker
 Helm
-Check out some of my work
-ResumeGPT
-ResumeGPT
-Chat with my resume. Ask away.
 
-Designed with:
-
-Python
-OpenAI
-LangChain
-Streamlit
-
-Get in touch.
+Get in touch.:
 I am always open to discussing new opportunities, innovative ideas, or how I can bring value to your team. Feel free to reach out.
 
 Phone
@@ -132,8 +103,7 @@ Email
 DSims21@gmail.com
 LinkedIn
 DanielJSims
-
-Daniel Sims - CV - Data First
+© Copyright 2023 Daniel Sims
 
 Daniel Sims
 
@@ -204,3 +174,54 @@ Technical: Python, SQL, Java, C#, C++, OpenAI API, LangChain, Distributed System
 Language: English (proficient,) Spanish (intermediate,) French (intermediate,) Arabic (beginner)
 Interests: Artificial Intelligence, Machine Learning, Virtual Reality, Traveling, Electric Scootering 
 
+Common questions and answers to roles: 
+STARBURST DATA - Manager
+1. Can you provide a specific example of a new process or system that you implemented? How did you identify the need for this change, and how did it benefit the company? 
+
+Yes, I designed and implemented Tableau Server for the whole company. Working in close partnership with other departments, we built dashboards which corresponded to our part of the data mesh. We used Starburst as a semantic layer. I identified this need because each department was working through its own metrics at its own pace - we needed a unified layer. The benefit to the company was immense. The dashboards were viewed up to 1000 times per day and became a mission critical part of people's day to day work. 
+
+2. You mentioned leveraging your quantitative background and programming skills to introduce analytics solutions. Could you elaborate on one of these solutions? What impact did it have?
+
+My quantitative background gives me a unique perspective of the world - one based on probability. This probability is useful when trying to extrapolate future events. In the case of management this can apply to escalations, renewals, or even just getting ahead of a potential issue. My programming background allows me to build systems which address issues once and for all. If I see a problem that can be solved by automation or by a program, I have the ability to take that route. I built a program called 'Radar Ping' which integrated into technical account manager's and account manager's slack app. I could, on a regular basis, 'ping' the team on micro surveys pertaining to their accounts. Questions on probability of renewal or probability of expansion could be addressed. Not only that, we could determine whether or not two parties agreed on the outcome. 
+
+3. You've noted that you oversaw the company's most prominent and technically demanding customer accounts. Could you provide an example of a challenge you faced in this role and how you overcame it? 
+
+Yes, these accounts possess some of the largest datasets on earth. As such, they have unique issues and challenges. When dealing with a top-tier money-center bank, I was faced with a demanding timeline for myself and the Technical Account Manager assigned to the account. We were required to develop a key piece of software as fast as possible. This took honest coordination between us, product management, engineering, and leadership as a whole. We navigated these waters together and were able to deliver the software changes on time. Another element of challenges are those around security, authentication, and high-availability. These are mission critical systems which need to be maintained and monitored at high levels, and my team was able to help with that - at global scale and with some of the best data teams on earth. 
+
+4. Can you share an instance where your collaboration with product and engineering teams led to significant product enhancements?
+
+Yes, at Starburst there is a process by which new product enhancements are reviewed and cataloged against many metrics such as revenue, risk, ease of development, and strategic value. I was always very judicious in this process and very honest - earning praise from the product managers who were doing their best to maintain a truly prioritized backlog. One example of a time where my honesty paid off what when a major company needed a large body of work completed around authentication type. This authentication type would require quite a bit of engineering work and in many stages. Together with product, engineering, and the customer, we came up with a plan to develop and implement this new auth type on a schedule that was communicated and acceptable to the customer. 
+
+5. How did you measure the operational efficiency that was enhanced by the AI tools you implemented? What were the key performance indicators, and how much improvement did you see?
+
+The operational efficiency was measured in the form of OKR completion. I used AI in order to formulate a set of specific OKRs to match our departmental and company-wide OKRS. These OKRs were designed as SMART goals meant to push me and the team. We began immediately. With the help of AI, we were able to produce some documents and then work upon them collectively to refine them. This human refinement took less time than if we would have also had to compile the document from the beginning. 
+
+6. When you speak of leading and nurturing a high-performing team, could you give an example of a particular team member's growth during your tenure? How did you foster this development?
+
+I believe that I grew side by side with many of my team members. From struggling with efficiency, to team identity, to working with my fellow managers. 
+
+7. What strategies did you employ to bridge the gap between clients and internal teams effectively?
+
+To do this I focused on increasing both client communication and internal communication independently. I implemented a standardized pattern of client communication - one by which notes were taken during every meeting and sent to customers as a way to validate work. I also implemented standardized methods of internal communication - such as a 'key customer issues' meeting whereby each person could gather with the team and explain particular issues they may be facing. They could garner support, unification, and advice from other individuals. If one or more issues were found to be common, we could then more easily and in a more streamlined way approach the owning department for a solution. The solutions were easier to track with more people chatting about them internally. 
+
+
+STARBURST DATA - Technical Account Manager 
+1. Can you provide a specific example of a data infrastructure strategy that you developed and implemented for high-touch accounts? What was the impact on data storage, retrieval processes, and interoperability?
+
+Yes, There are a few examples. One is on scalability where a customer was building multiple Trino clusters. I worked closely with them as they were building to address any issues and solve questions around monitoring using prometheus and Kubernetes. This same account was seeing high costs related to data storage retrieval from AWS S3, which I was able to reduce through knowledge of AWS and Trino. Another example is an account that was suffering from performance issues relating to their infrastructure. We went through the escalation process and involved the CTO for assistance. After multiple engaged troubleshooting sessions, we were able to resolve the performance issues. 
+
+2. Can you elaborate on your experience with Trino/Presto? How did you leverage these tools for comprehensive data solutions?
+
+I started using these tools as I learned that common databases sometimes were not enough in order to hold and query very large datasets. I built and maintained my own data lake, I built data lakes and query components for companies, and as I was doing so, I found Trino. I was able to see the power immediately. Even billions of rows could return in a second because of the way it splits queries across many nodes. I have 5+ years of experience using trino. I leveraged Trino to power Tableau dashboards and python programs which required speed in order to drive insight. I implemented Tableau across the whole company at Starburst and made it the single semantic layer powering all of the Tableau dashboards. In working with customers, they noted my extreme understanding of the high level concepts of Trino as well as the ability to dig in and solve low level issues. This is how I gained credibility with many platform engineering and devops teams. On many occasions 
+
+3. Could you describe a situation where you used your analytics solutions to drive a decision-making process? What was the outcome?
+
+I made many dashboards encompassing the entire team dynamic. There were dashboards which showed the customer base and key facts about them (how many, what kind, which team, etc.) There were team dashboards which showed account load per person which allowed me to make accurate decisions on where new accounts would land. There were sales dashboards which showed pipeline and expected account revenue. There were individuals predictions about renewals and expansions which allowed me to raise important issues early. 
+
+4. When you say that you've managed the world's largest datasets, could you provide a specific example of a challenge you faced and how you overcame it?
+
+Yes. In many instances, these datasets span the entire world or may be chunked by region or country. There is often a need to query across borders. For example, a customer may need to ask a question both of their North American data as well as their EMEA data. Trino can solve the problem, but it takes a strong knowledge of the product. I was able to act as the person with a strong knowledge of how difficult tasks could be accomplished, help project manage the actual solution, and sometimes even be the one to implement it. Another example is of cost attribution. I was able to build an entire solution which allowed large enterprises to attribute the cost of a particular query to a particular person or group. This allowed them to bill the appropriate internal team. 
+
+5. Could you explain how you fostered a culture of data-driven insights within your team?
+
+Yes, one of the most pervasive issues on the data-front that we had was our ability to query usage and telemetry data. I was able to not only solve the technical pieces of the problem, but I was able to use it as a springboard to have conversations about data-driven discussions and decisions. With a new toolset in our hands, we could come up with more data-drive answers as a team. 
