@@ -66,7 +66,8 @@ if prompt:
 
     # with st.chat_message("system"):
     #     st.markdown("You are a powerful chatbot designed to answer questions about this document: " + baseResume)
-
+    st.session_state.messages = st.session_state.messages[-5:]
+    del st.session_state.messages[0]
     with st.chat_message("assistant"):
         message_placeholder = st.empty()
         full_response = ""
@@ -84,4 +85,3 @@ if prompt:
         message_placeholder.markdown(full_response) # Assistant's response
     st.session_state.messages.append({"role": "assistant", "content": full_response})
     full_response = full_response[32000-len(full_response):]
-    st.session_state.messages = st.session_state.messages[-5:]
