@@ -55,7 +55,7 @@ for message in st.session_state.messages:
             st.markdown(message["content"])
         
 
-prompt = st.chat_input("ResumeGPT: You can ask any question about Daniel...")
+prompt = st.chat_input("ResumeGPT: Ask any question about Daniel...")
 
 if prompt:
     st.session_state.messages.append({"role": "user", "content": prompt})
