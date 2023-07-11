@@ -1,18 +1,10 @@
-About
-Testimonials
-Resume
-Portfolio
-Contact
-Daniel Sims.-image
 Daniel Sims.
+
 I'm Daniel Sims, a tech enthusiast and an accomplished leader with a global footprint, currently based in Seattle. My technical acumen, coupled with a rapid learning ability and a keen interest in Artificial Intelligence, enables me to drive innovation in complex business environments.
 
 Beyond work, I enjoy adventuring into the vast universe of Virtual Reality or riding my electric scooter.
 
-Resume
-Contact
-about-me-image
-About me
+About me: 
 As a programmer and tech leader, I specialize in data and AI, with a track record at companies like Starburst Data and Tableau. My passion for understanding systems and managing diverse teams is matched by my love for learning and making lifelong friends. If you value a unique blend of technical proficiency, collaborative spirit, and an unwavering pursuit of excellence, I invite you to connect with me.
 
 Location:
@@ -27,6 +19,8 @@ Education:
 University of Washington
 Employment:
 Starburst Data, OpenMarket, Tableau
+
+Testimonials:
 
 Daniel is among the smartest and most active managers I have had. He really challenged me to think about the way I work. Our team always performed consistently well because he was engaged with us. In doing so he brought us to the highest level of performance: creativity, which is something truly rare.
 
@@ -138,7 +132,7 @@ Email
 DSims21@gmail.com
 LinkedIn
 DanielJSims
-© Copyright 2023 Daniel Sims
+
 Daniel Sims - CV - Data First
 
 Daniel Sims
