@@ -1,45 +1,13 @@
 import streamlit as st
 import openai
-# from langchain.embeddings.openai import OpenAIEmbeddings
-# from langchain.vectorstores import FAISS
-# from langchain.vectorstores import Chroma
-# from langchain.text_splitter import RecursiveCharacterTextSplitter
-# from langchain import OpenAI
-# from langchain.chains import RetrievalQA
-# from langchain.document_loaders import DirectoryLoader, TextLoader
-# import magic
-# import os
-# import nltk
 
 openai_api_key=st.secrets["OPENAI_API_KEY"]
 with open("public/resume.txt", "r") as f:
     baseResume = f.read()
 
-# Get your loader ready
-# loader = DirectoryLoader('../data/PaulGrahamEssaySmall/', glob='**/*.txt')
-# loader = TextLoader('public/test.txt')
-# documents = loader.load()
-# text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
-# texts = text_splitter.split_documents(documents)
-# embeddings = OpenAIEmbeddings()
-
-# persist_directory = 'db'
-# vectordb = Chroma.from_documents(persist_directory=persist_directory,embedding=embeddings, documents=texts)
-# vectordb.persist()
-# vectordb = None
-
-# retriever = vectordb.as_retriever()
-# docs = retriever.get_relevant_documents("What did McCarthy discover?")
-
-# docsearch = FAISS.from_documents(texts, embeddings)
-# llm = OpenAI(openai_api_key=openai_api_key)     
-# qa = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=docsearch.as_retriever())        
-# query = "What did McCarthy discover?"
-# qa.run(query)
-
 st.title("ResumeGPT")
-st.text("Engage in a private, AI-powered conversation to explore Daniel's career.") 
-st.text("Your data is not stored or shared.")
+st.text("Engage in an AI-powered conversation to explore Daniel's career.") 
+st.text("Your conversation is private to your session.")
 
 openai.api_key = openai_api_key
 
