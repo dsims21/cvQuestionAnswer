@@ -37,7 +37,9 @@ with open("public/resume.txt", "r") as f:
 # query = "What did McCarthy discover?"
 # qa.run(query)
 
-st.title("ResumeGPT - Ask Anything About Daniel's CV")
+st.title("ResumeGPT")
+st.text("Engage in a private, AI-powered conversation to explore Daniel's career.") 
+st.text("Your data is not stored or shared.")
 
 openai.api_key = openai_api_key
 
@@ -55,7 +57,7 @@ for message in st.session_state.messages:
             st.markdown(message["content"])
         
 
-prompt = st.chat_input("ResumeGPT: Ask any question about Daniel...")
+prompt = st.chat_input("Ask ResumeGPT about Daniel.")
 
 if prompt:
     st.session_state.messages.append({"role": "user", "content": prompt})
@@ -64,8 +66,6 @@ if prompt:
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # with st.chat_message("system"):
-    #     st.markdown("You are a powerful chatbot designed to answer questions about this document: " + baseResume)
     st.session_state.messages = st.session_state.messages[-5:]
     del st.session_state.messages[0]
     with st.chat_message("assistant"):
@@ -74,7 +74,6 @@ if prompt:
         for response in openai.ChatCompletion.create(
             model=st.session_state["openai_model"],
             messages=[
-                # {"role": "system", "content": "You are a powerful chatbot designed to answer questions about this document: " + baseResume},
                 {"role": m["role"], "content": m["content"]}
                 for m in st.session_state.messages if m["role"]
             ],
