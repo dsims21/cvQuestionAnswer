@@ -1,18 +1,8 @@
-About
-Testimonials
-Resume
-Contact
-Daniel Sims.-image
-Daniel Sims.
 Hi! I'm Daniel Sims, a tech enthusiast and an accomplished leader with a global footprint, currently based in Seattle. My technical acumen, coupled with a rapid learning ability and a keen interest in Artificial Intelligence, enables me to drive innovation in complex business environments.
 
 Feel free to share this page, download my resume, and interact with ResumeGPT, my custom program, below!
 
-Resume
-Contact
-ResumeGPT by Daniel Sims
-about-me-image
-About me
+About me:
 As a programmer and tech leader, I specialize in data and AI, with a track record at companies like Starburst Data and Tableau. My passion for understanding systems and managing diverse teams is matched by my love for learning and making lifelong friends. If you value a unique blend of technical proficiency, collaborative spirit, and an unwavering pursuit of excellence, I invite you to connect with me.
 
 Location:
@@ -37,7 +27,7 @@ Daniel is among the smartest and most active managers I have had. He really chal
 
 Daniel is a savvy technical leader who tackles challenging problems thinking out of the box. Always responsive and ready to engage. When working with my team, he always brought valuable insights, both technical and the customer's perspective.
 
--- Alex Albu (Engineering Manager)
+-- Alex Albu (Director, Engineering)
 
 
 Daniel cares deeply about the team members he manages and mentors. He wants to see his team members succeed, which is a quality that his direct reports could feel daily in their work alongside him.
@@ -55,9 +45,19 @@ Daniel is extremely reliable and trustworthy, and I knew that any project with h
 -- Kevin Haley (Product Manager)
 
 
+He possess exceptional problem-solving skills and can approach complex situations with a calm and analytical mindset.
+
+-- Lexi Wilkins (Project Manager)
+
+
 What makes Daniel standout is his data driven and "back to fundamentals" style of working, and is a leader that inspires through action. He is highly technical leader in the data/AI/ML domain paired with a strong business & people mindset.
 
 -- Luke Watkins (Senior Technical Account Manager)
+
+
+Beyond his technical skills and leadership abilities, Dan's interpersonal skills made him a pleasure to work with. He fostered a collaborative and inclusive environment, encouraging open communication and actively seeking input from team members.
+
+-- JB Oh (Technical Account Manager)
 
 
 EDUCATION:
@@ -67,6 +67,62 @@ Univerity of Washington
 June 2015
 In my academic journey, I explored a broad spectrum of business subjects that have become a cornerstone in my tech-oriented career. From Business Finance to E-Marketing and International Trade, my foundational knowledge has been integral in navigating the dynamic landscape of the tech industry.
 
+WORK:
+Manager, Technical Account Management
+Starburst Data
+•
+August 2022 - June 2023
+I managed a specialized team of technical account managers who catered to high-profile clients, navigated complex challenges, and implemented systems to enhance operational efficiency. My focus was on using innovative solutions and clear communication to achieve customer satisfaction and drive team performance.
+
+
+Fostered a culture of empowerment and teamwork, leading to a high-performing team in a challenging and technical environment. This leadership style resulted in improved team performance, higher job satisfaction, and the successful nurturing of individuals into roles of increased responsibility and challenge.
+Introduced an effective communication strategy that bridged the gap between clients and internal teams. This initiative involved setting up standardized patterns of client communication and internal 'key customer issues' escalations meetings, resulting in better issue tracking, faster problem resolution, and enhanced collaboration across the board.
+Implemented and administered a 600 user Tableau Server across the company, providing a unified data layer and improving departmental coordination. This solution significantly enhanced daily operations, as evidenced by up to 1000 views of dashboards per day.
+Technical Account Manager
+Starburst Data
+•
+August 2021 - August 2022
+In this role, I fused technical expertise with account management, cultivating relationships with significant customer accounts while driving data solutions. Leveraging Trino/Presto and other advanced technologies, I built robust data strategies that facilitated efficient querying for the world's largest datasets.
+
+
+Served as the trusted point of contact for high-profile customer accounts, consistently delivering high-quality support and facilitating collaboration with global data teams.
+Fostered strong relationships with product and engineering teams, contributing to significant product enhancements through informed liaising and effective communication.
+Senior Technical Account Manager
+OpenMarket Inc.
+•
+December 2020 - August 2021
+Seamlessly blended my technical acumen and client relationship management capabilities to significantly enhance our global text messaging platforms. I oversaw the global messaging operations for world-renowned technology companies, ensuring optimal performance and customer satisfaction.
+
+
+Managed global messaging operations, successfully handling billions of worldwide transactions. This role involved ensuring the seamless delivery of every text message, which significantly improved our client's operational efficiency and user experience.
+Collaborated with the Data Engineering team to build a robust and innovative data lake infrastructure using advanced technologies like Parquet, S3, Hive, and Presto. This strategic project effectively managed the enormous volume of text message data, demonstrating the importance of efficiency and accuracy in maintaining data value.
+Owner, Quantitative Analyst, Financial Advisor
+Spearhead Capital Management, LLC
+•
+June 2013 - December 2020
+Founded and managed a boutique investment firm where I harnessed my expertise in data-driven solutions and quantitative analysis to bring value to the financial markets. I developed novel tools for derivative pricing and risk hedging, thereby fundamentally transforming the approach to investment.
+
+
+Developed automated workflows for Monte Carlo Simulations and built tools for mass valuation of options using the Black-Scholes formula. This unprecedented move not only streamlined operations but also increased accuracy and efficiency in option pricing and risk hedging.
+Developed a fully automated data pipeline, integrating all index/equity derivative trades on every US exchange along with other crucial market data. Combined with data aggregation and visualization, this sophisticated infrastructure brought transparency to analysis and enhanced decision-making capabilities.
+Manager, Software Engineering
+Tableau Software
+•
+November 2013 - December 2018
+I excelled in various roles of increasing responsibility within the support and engineering domains. My journey began as a Technical Support Engineer, progressing to a Technical Account Manager, followed by a Manager of Technical Account Management, and culminated as the Manager of Software Engineering.
+
+
+Led and managed teams ranging from 10 to 13 members across different roles, driving significant enhancements in defect triage, resolution, and product support. Championed the adoption of Scrum methodology and the development of innovative solutions, leading to improvements in operational efficiency, cost savings, and customer service.
+Excelled in customer-centric roles, delivering white-glove service to large enterprise customers and customizing solutions to meet unique needs. Achieved high customer satisfaction and renewal rates.
+Stockbroker
+Scottrade, Inc.
+•
+November 2007 - June 2013
+Within a small team setting, I managed a multitude of facets of the brokerage and maintained over 15,000 accounts.
+
+
+Acquired FINRA Series 7 and Series 63 licenses, underlining my mastery of financial regulations, securities, and ethical practices.
+Utilized my reputation as a proficient professional in options trading to execute high-volume trades for clients, while also educating them about options trading. This superior service led to enhanced client retention and increased brokerage assets.
 
 SKILLS:
 Leadership & Management
@@ -94,7 +150,7 @@ Kubernetes
 Docker
 Helm
 
-Get in touch.:
+Get in touch. Contact:
 I am always open to discussing new opportunities, innovative ideas, or how I can bring value to your team. Feel free to reach out.
 
 Phone
@@ -104,6 +160,7 @@ DSims21@gmail.com
 LinkedIn
 DanielJSims
 © Copyright 2023 Daniel Sims
+
 
 Daniel Sims
 
