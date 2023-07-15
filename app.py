@@ -6,8 +6,7 @@ with open("public/resume.txt", "r") as f:
     baseResume = f.read()
 
 st.title("ResumeGPT")
-st.text("Engage in an AI-powered conversation to explore Daniel's career.") 
-st.text("Your conversation is private to your session.")
+st.write("Engage in an AI-powered conversation to explore Daniel's career. Your conversation is private to your session.") 
 
 openai.api_key = openai_api_key
 
@@ -30,7 +29,6 @@ prompt = st.chat_input("Ask ResumeGPT about Daniel.")
 if prompt:
     st.session_state.messages.append({"role": "user", "content": prompt})
     
-
     with st.chat_message("user"):
         st.markdown(prompt)
 
@@ -49,6 +47,11 @@ if prompt:
         ):
             full_response += response.choices[0].delta.get("content", "") # type: ignore
             message_placeholder.markdown(full_response + "▌")
-        message_placeholder.markdown(full_response) # Assistant's response
+        message_placeholder.markdown(full_response)
     st.session_state.messages.append({"role": "assistant", "content": full_response})
     full_response = full_response[32000-len(full_response):]
+    st.markdown("   ") # Assistant's response
+    st.markdown("   ") # Assistant's response
+    st.markdown("   ") # Assistant's response
+    st.markdown("   ") # Assistant's response
+    st.markdown("   ") # Assistant's response
