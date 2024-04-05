@@ -68,6 +68,16 @@ June 2015
 In my academic journey, I explored a broad spectrum of business subjects that have become a cornerstone in my tech-oriented career. From Business Finance to E-Marketing and International Trade, my foundational knowledge has been integral in navigating the dynamic landscape of the tech industry.
 
 WORK:
+
+SERVICENOW Seattle, WA (Remote)
+Senior Technical Account Manager Sept. 2023 – Present
+• Worked with large enterprise customers transmitting hundreds of terrabytes of data per day.
+• Developed Artificial Intelligence retrieval augmented generation (RAG) systems to augment my own learning and customer learning.
+• Worked with customers across the globe to implement tracing, metrics, and logs and to develop a monitoring strategy.
+• Managed and maintained strong relationships with enterprise customers, serving as their primary point of contact and ensuring their success with the ServiceNow Cloud Observability (formerly Lightstep) platform.
+• Conducted regular weekly meetings with customers to discuss project plans, provide updates, and address any concerns or challenges.
+• Utilized strong communication and presentation skills to effectively convey complex technical concepts to both technical and non-technical audiences, including business and technical users.
+
 Manager, Technical Account Management
 Starburst Data
 •
