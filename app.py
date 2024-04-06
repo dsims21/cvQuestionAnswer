@@ -11,7 +11,7 @@ st.write("Engage in an AI-powered conversation to explore Daniel's career. Your 
 openai.api_key = openai_api_key
 
 if "openai_model" not in st.session_state:
-    st.session_state["openai_model"] = "gpt-3.5-turbo-16k"
+    st.session_state["openai_model"] = "gpt-4-0125-preview"
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
