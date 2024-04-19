@@ -55,8 +55,8 @@ if prompt:
         
         # Insert the user's prompt into the MySQL database
         db_cursor = db_connection.cursor()
-        insert_query = "INSERT INTO user_prompts (prompt, time) VALUES (%s, %s)"
-        db_cursor.execute(insert_query, (prompt,))
+        insert_query = "INSERT INTO resumegpt.user_prompts (prompt, time) VALUES (%s, %s)"
+        db_cursor.execute(insert_query, (prompt, current_time,))
         db_connection.commit()
         db_cursor.close()
         
