@@ -163,83 +163,94 @@ Helm
 Get in touch. Contact:
 I am always open to discussing new opportunities, innovative ideas, or how I can bring value to your team. Feel free to reach out.
 
-Phone
-425.922.0726
-Email
-DSims21@gmail.com
-LinkedIn
-DanielJSims
-© Copyright 2023 Daniel Sims
-
-
-Daniel Sims
-
 Seattle, WA • DSims21@gmail.com • 425-922-0726
-LinkedIn: DanielJSims • StackOverflow: MonteCarloSims • GitHub: DSims21
+LinkedIn: DanielJSims • GitHub: DSims21 • Website: danielsims.vercel.app
 
-Education:
-UNIVERSITY OF WASHINGTON	Seattle, WA
-BA, Business Administration	2015
-Relevant Coursework: Management of Organizations, Information Analysis, Operations, Project Management, Statistics
+Key Qualifications
+	
+•	Demonstrated expertise creating and deploying ML infrastructures, leveraging Python, distributed computing, and open-source collaboration (e.g., Trino/Presto, OpenAI) in multi-cloud environments.  
+•	Skilled at container orchestration (Kubernetes, Docker) and microservices architectures to power large-scale AI/ML and observability solutions (tracing, metrics, logs).  
+•	Experienced in designing automated data pipelines and batch or streaming ETL flows that feed and monitor sophisticated AI systems.  
+•	Proven success in managing and mentoring cross-functional teams spanning multiple time zones, championing Agile-like methods, and driving operational excellence.  
+•	Adept at communicating complex technical concepts to executives, translating business challenges into scalable AI solutions, and maintaining stakeholder alignment.  
+•	Advanced proficiency in AI model development, generative AI, neural networks, and a variety of modern programming languages (Python, Java, C#).  
+•	Track record of leading enterprise-level client engagements, providing advisory for large-scale data strategies, and spearheading product improvements collaboratively with engineering.
 
-Experience: 
-STARBURST DATA	Cambridge, MA (Remote)
-Manager, Technical Account Management / Lead Data Engineer (Telemetry)	Aug. 2022 – Jun. 2023
-•	Utilized advanced AI tools, notably GPT-4, to enhance operational efficiency across multiple areas, including the creation of internal and external planning documents, the generation of powerful presentations, data analysis for informed decision-making, design of OKRs and supporting documentation, and the proposition of new educational and service programs.
-•	Oversaw the company's most prominent and technically demanding customer accounts, demonstrating skills in client management, and technical problem-solving.
-•	Initiated and implemented innovative systems and processes based on organizational needs, seeing company-wide adoption.
-•	Led and nurtured a high-performing team, creating an environment that promoted teamwork, empowered individuals, and boosted team performance.
-•	Leveraged quantitative background and programming expertise to introduce analytics solutions on a team and company-wide scale.
-•	Collaborated with product and engineering teams, contributing to product enhancements and bridging the gap between clients and internal teams.
-•	Gained skills in systems and process design, team leadership, product improvement, and analytics solution development.
-
-Senior Technical Account Manager / Data Engineer	Aug. 2021 – Aug. 2022
-•	Served as the primary point of contact for significant customer accounts, collaborating with global data teams.
-•	Managed world's largest datasets, using Trino/Presto for comprehensive data solutions, ensuring efficient data federation and massively parallel processing.
-•	Developed and implemented data infrastructure strategies for high-touch accounts, improving data storage, retrieval processes, and interoperability.
-•	Deployed scalable data strategies in large enterprise environments that utilized massively parallel processing, enhancing efficiency in querying and analyzing vast datasets.
-•	Designed team-wide analytics solutions, enhancing decision-making capabilities and fostering a culture of data-driven insights.
-•	Engaged regularly with product and engineering teams, acting as a liaison and contributing towards product enhancement.
-•	Gained skills in high-touch account management, project management, data infrastructure strategy, application of Trino/Presto through DevOps, and Platform Engineering principles.
-
-OPENMARKET INC.	Seattle, WA (Remote)
-Senior Technical Account Manager / Data Engineer	Dec. 2020 – Aug. 2021
-•	Worked closely with the company's most significant account to design and implement global text messaging platforms, including innovative products such as satellite communication.
-•	Collaborated with 19 teams of engineers, innovators, DevOps engineers, and platform engineers to monitor and stabilize a real-time global platform.
-•	Managed time-sensitive SMS data, similar to market data, understanding the importance of avoiding delays to maintain its value.
-•	Utilized knowledge of the scale of markets to perform effectively in the role.
-•	Developed data warehouse infrastructure using Parquet, S3, Hive, and Presto to handle billions of rows of text message data.
-•	Created internal visualizations to monitor delivery rates, proactively identifying and resolving issues to maintain optimal performance.
+ 
 
 
-SPEARHEAD CAPITAL MANAGEMENT, LLC	Bellevue, WA
-Owner, Quantitative Analyst, Software Engineer, Data Engineer, Financial Advisor	Jun. 2013 – Dec 2020
-•	Achieved the FINRA Series 3 and Series 66 licenses, demonstrating a comprehensive understanding of financial regulations, commodities, futures contracts, securities, and ethical business practices in the financial services industry.
-•	Developed and maintained Athena, a program using C# for the collection and storage of empirical market micro-structure data, including live streaming equity/index derivative data, implied volatility skew, and put/call-parity deviations.
-•	Constructed a Derivative Pricing Calculator, a tool for mass valuation of options using Python and SQL Server, applying the Black-Scholes formula to include Delta, Vega, and Implied Volatility calculations.
-•	Built Neural Networks to predict derivative pricing and utilized quantum computing to balance a basket of derivative securities and risk hedges, guided by financial theories such as Black-Scholes, Information Theory, and Kelly Optimization.
-•	Created and maintained a fully automated Market Data Pipeline from US exchanges to aggregated visualization using AWS Athena, Tableau, and Powershell, handling all Index/equity derivative trades on every US exchange.
-•	Developed a nightly automated Monte Carlo Simulation workflow using Python, AWS Athena, AWS S3, and Linux to compute stocks' probabilistic outcomes for specific future dates.
-•	Managed, queried, migrated, and automated billion+ row datasets and reduced billions of events to create logic leading to actionable data points.
+Experience
 
-TABLEAU SOFTWARE	Seattle, WA
-Manager, Software Engineering (Supportability)	Nov. 2013 – Dec. 2018
-•	Promoted to various support and engineering roles during a five-year tenure at this $1B business intelligence and data analytics software company.
-•	Led technical troubleshooting efforts for the world's largest analytics platforms, addressing complex, high-level issues that required a deep understanding of large-scale data handling, which is directly related to the new role's requirements.
-•	Conducted regular meetings with C-Level executives to provide updates on critical escalations, demonstrating effective communication skills and the ability to manage relationships with high-profile stakeholders.
-•	Responded to critical client needs by personally visiting customer sites for presentations and hands-on troubleshooting, indicating a commitment to customer service and ability to handle high-pressure situations, akin to managing the most demanding accounts in the new role.
 
-SCOTTRADE	Seattle, WA
-Stockbroker	Nov. 2007 – Jun. 2013
-•	Earned the FINRA Series 7 and Series 63 licenses, demonstrating a high level of knowledge and expertise in financial regulations, securities, and ethical practices.
-•	Gained a reputation as a skilled professional in options trading, exhibiting a deep understanding of advanced market principles and a consistent ability to place large trades for customers.
-•	Prioritized speed and accuracy, recognizing their critical importance in the fast-paced and high-stakes world of stock trading, a mindset that carries over into my management and technical roles.
+ 
+   SERVICENOW	
+Product Innovation Architect, AIOps	Dec. 2024 – Present
+Senior Technical Account Manager	Sept. 2023 – Dec. 2024
 
-Skills & Interests:
-Financial: Quant Finance, Valuation, Greeks, Hedging, High Frequency Trading, Black Scholes, Kelly Criterion 
-Technical: Python, SQL, Java, C#, C++, OpenAI API, LangChain, Distributed Systems, Big Data, Kubernetes, Data Visualization, Tableau, Docker, Helm, Linux, Git, AWS, GCP, Azure, Open-Source Collaboration, Troubleshooting
-Language: English (proficient,) Spanish (intermediate,) French (intermediate,) Arabic (beginner)
-Interests: Artificial Intelligence, Machine Learning, Virtual Reality, Traveling, Electric Scootering 
+•	Architect and implement advanced AI-driven solutions (including generative AI) to optimize enterprise observability, leveraging telemetry and distributed tracing for planetary-scale customers.  
+•	Built collaborative relationships with product managers, engineers, and global support teams, ensuring robust monitoring frameworks and streamlined SLAs across hybrid cloud deployments.  
+•	Provided deep technical oversight, offering strategic advice to both internal stakeholders and Fortune 500 clients, driving adoption of modern AIOps best practices.  
+•	Drove enhancements in tracing, metrics, and log pipelines to handle hundreds of terabytes of data per day, onboarding geographically diverse enterprises with minimal latency.
+
+STARBURST DATA	
+Manager, Technical Account Management	Aug. 2022 – Jun. 2023
+Technical Account Manager	Aug. 2021 – Aug. 2022
+
+•	Led a high-performing global team of technical account managers overseeing top-tier enterprise accounts, implementing AI-enabled analytics solutions using Trino/Presto.  
+•	Spearheaded architecture designs for multi-cloud Kubernetes deployments, introducing Helm-based container orchestration to scale massive data processing.  
+•	Utilized generative AI to accelerate planning document creation, presentations, and data analysis, reducing operational overhead and boosting team efficiency.  
+•	Collaborated with product and engineering teams, contributing code through GitHub pull requests that enhanced UI and usage-tracking methodologies to support enterprise innovations.  
+
+
+
+
+
+
+
+
+INFOBIP LTD.	
+Senior Technical Account Manager	Dec. 2020 – Aug. 2021
+
+•	Designed and launched large-scale global text messaging systems with satellite communication capabilities, coordinating with distributed engineering, DevOps, and platform teams.  
+•	Engineered data warehouse infrastructures (using Presto, Hive, AWS Athena) to process billions of rows of time-sensitive SMS data.  
+•	Built advanced monitoring dashboards to proactively spot delivery issues and drive near-real-time analytics, ensuring 99.9%+ uptime and consistent customer satisfaction.
+
+SPEARHEAD CAPITAL MANAGEMENT, LLC	
+Owner, Financial Advisor	Dec. 2018 – Dec. 2020
+
+•	Developed automation frameworks and AI-driven strategies (including neural networks and quantum computing concepts) to predict derivative pricing and optimize hedging models.  
+•	Created data pipelines for massive market and volatility data, employing Python, SQL, and AWS for nightly Monte Carlo simulations and detailed visualization.  
+•	Demonstrated end-to-end ownership of solutions, from architectural design to production readiness, while aligning with advanced financial regulatory standards and risk mitigation.
+
+  TABLEAU SOFTWARE	
+Manager, Software Engineering	May 2017 – Dec. 2018
+Manager, Technical Account Management	Jun. 2015 – May 2017
+Technical Account Manager	Sep. 2014 – Jun. 2015
+Technical Support Engineer	Nov. 2013 – Sep. 2014
+
+•	Managed multifaceted engineering and technical support teams within a hyper-growth analytics environment, directly overseeing critical deployments for global customers.  
+•	Integrated large-scale data visualization pipelines, guiding enterprise clients toward advanced analytics solutions tailored to business needs and performance requirements.  
+•	Participated in onsite sessions with C-level executives, employing strong communication and problem-solving skills to rectify complex issues and maintain 95%+ customer satisfaction.  
+
+Education
+
+UNIVERSITY OF SAN DIEGO	
+Master of Science (MS) in Applied Artificial Intelligence	Expected 2026
+
+HARVARD UNIVERSITY – HARVARD EXTENSION SCHOOL	
+Master of Liberal Arts (ALM) in Computer Science	Expected 2027
+
+UNIVERSITY OF WASHINGTON	
+Bachelor of Arts in Business Administration	2015
+
+Certifications
+
+HARVARD BUSINESS SCHOOL	
+AI Essentials for Business	2024
+
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY	
+Designing and Building AI Products and Services	2024
+
 
 Common questions and answers to roles: 
 STARBURST DATA - Manager
